@@ -1,0 +1,19 @@
+{
+  "exportedAt" : "2026-05-05T19:55:02Z",
+  "metrics" : [
+    {
+      "id" : "HKQuantityTypeIdentifierStepCount",
+      "title" : "Шаги",
+      "unit" : "count",
+      "value" : 2684
+    },
+    {
+      "id" : "HKQuantityTypeIdentifierHeartRate",
+      "title" : "Пульс",
+      "unit" : "bpm",
+      "value" : 0
+    }
+  ],
+  "rangeEnd" : "2026-05-04T21:00:00Z",
+  "rangeStart" : "2026-05-03T21:00:00Z"
+}
