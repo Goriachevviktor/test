@@ -1,11 +1,29 @@
 {
-  "exportedAt" : "2026-05-05T20:29:14Z",
+  "exportedAt" : "2026-05-05T20:35:01Z",
   "metrics" : [
     {
       "id" : "HKQuantityTypeIdentifierStepCount",
       "title" : "Шаги",
       "unit" : "count",
       "value" : 2684
+    },
+    {
+      "id" : "HKQuantityTypeIdentifierActiveEnergyBurned",
+      "title" : "Активная энергия",
+      "unit" : "kcal",
+      "value" : 72.307
+    },
+    {
+      "id" : "HKQuantityTypeIdentifierDistanceWalkingRunning",
+      "title" : "Ходьба и бег",
+      "unit" : "km",
+      "value" : 1.9428800000133923
+    },
+    {
+      "id" : "HKQuantityTypeIdentifierAppleExerciseTime",
+      "title" : "Минуты тренировки",
+      "unit" : "min",
+      "value" : 0
     },
     {
       "id" : "HKQuantityTypeIdentifierHeartRate",
