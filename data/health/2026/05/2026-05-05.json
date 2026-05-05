@@ -1,0 +1,49 @@
+{
+  "date" : "2026-05-05",
+  "habits" : {
+    "bad" : {
+      "alcohol" : true,
+      "fat_food" : true,
+      "laziness" : true,
+      "smoking" : true
+    },
+    "good" : {
+      "morning_exercise" : true,
+      "sport" : true,
+      "swimming" : true,
+      "walking" : true
+    }
+  },
+  "health" : {
+    "activity" : {
+      "active_energy_kcal" : 41.80799999999999,
+      "steps" : 1096,
+      "walking_running_distance_m" : 797.050000002142
+    },
+    "body" : {
+
+    },
+    "heart" : {
+
+    },
+    "nutrition" : {
+
+    },
+    "sleep" : {
+      "awake_minutes" : 0,
+      "sleep_minutes" : 0,
+      "time_in_bed_minutes" : 0
+    },
+    "workouts" : [
+
+    ]
+  },
+  "manual" : {
+    "note" : ""
+  },
+  "sync" : {
+    "github" : "localOnly",
+    "server" : "localOnly"
+  },
+  "timezone" : "Europe\/Moscow"
+}
